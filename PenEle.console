@@ -1,12 +1,17 @@
-ClockDegrees - h: 12, m: 30 - 180 - 15 == 165
-ClockDegrees - h: 11, m: 45 - 352.5 - 270 == 82.5
-ClockDegrees - h: 10, m: 0 - 360 - 300 == 60
-ClockDegrees - h: 9, m: 15 - 277.5 - 90 == 172.5
+ClockDegrees - h: 12, m: 30, 180 - 15 = 165
+
+ClockDegrees - h: 11, m: 45, 352.5 - 270 = 82.5
+
+ClockDegrees - h: 10, m: 0, 360 - 300 = 60
+
+ClockDegrees - h: 9, m: 15, 277.5 - 90 = 172.5
+
 Triangle - input: 4
 10
 8 9
 5 6 7
 1 2 3 4
+
 Triangle - input: 7
 28
 26 27
