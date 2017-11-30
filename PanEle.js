@@ -38,9 +38,9 @@ jQuery.extend(PanEle, {
       var check = 360 - degrees ; 
       if(degrees>check){
         degrees = check ;
-        console.log('ClockDegrees - h: '+h+', m: '+m+' - '+str+' == '+check) ;
+        console.log('ClockDegrees - h: '+h+', m: '+m+', '+str+' = '+check) ;
       } else {
-        console.log('ClockDegrees - h: '+h+', m: '+m+' - '+str+' == '+degrees) ;
+        console.log('ClockDegrees - h: '+h+', m: '+m+', '+str+' = '+degrees) ;
       }
     },
 
